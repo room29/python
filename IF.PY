@@ -7,4 +7,4 @@ if sueldo<=3000:
 if sueldo>6000 and sueldo<1000:
     print("el usuario tiene que pagar una boni de 1000")
 if sueldo==2000 or sueldo==30000:
-    print("el usuario paga por ciento de su sueldo")
+    print("el usuario paga porciento de su sueldo")
