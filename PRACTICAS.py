@@ -1,5 +1,5 @@
 #crear una comparacion de dos edades 1 y edad 2
-"""
+
 edad1=int (input("ingrese edad1: "))
 edad2=int (input("ingrese edad2: "))
 if edad1>edad2:
@@ -29,8 +29,6 @@ for x in range (10):
 for i in lista:
 	suma += i
 print ("el resultado es: " +str (suma))
-
-"""
 
 #crear una funcion simple que MULTIPLIQUE,SUMA,RESTE Y DIVIDA dos numeros
 
